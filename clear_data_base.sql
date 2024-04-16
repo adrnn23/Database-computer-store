@@ -1,0 +1,16 @@
+DROP TABLE magazyn;
+DROP TABLE ram;
+DROP TABLE systemy_operacyjne;
+DROP TABLE zasilacze;
+DROP TABLE plyty_glowne;
+DROP TABLE obudowy;
+DROP TABLE procesory;
+DROP TABLE karty_sieciowe;
+DROP TABLE karty_graficzne;
+DROP TABLE dyski;
+DROP TABLE reklamacje;
+DROP TABLE uslugi;
+DROP TABLE transakcje;
+DROP TABLE pracownik;
+DROP TABLE klienci;
+DROP TABLE produkty;
